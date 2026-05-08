@@ -1,1 +1,1 @@
-# synced_folder
+# synced folder
